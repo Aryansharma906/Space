@@ -5,12 +5,12 @@ var asteroid;
 
 function preload(){
     SpaceShip_img = loadImage("sprites/spaceship.png");
-    ast1_img = loadImage("sprites/as1.png");
-    ast2_img = loadImage("sprites/as2.png");
-    ast3_img = loadImage("sprites/as3.png");
-    laser_img= loadImage("sprites/laser.png");
-    blast_img = loadImage("sprites/blast.png");
-    space_img= loadImage("sprites/space.png");
+    ast1_img = loadImage("as1.png");
+    ast2_img = loadImage("as2.png");
+    ast3_img = loadImage("as3.png");
+    laser_img= loadImage("laser.png");
+    blast_img = loadImage("blast.png");
+    space_img= loadImage("space.png");
 
 
 }
